@@ -28,3 +28,5 @@ pip install -r requirements.txt
 python bot.py
 ```
 5: Discordで /setsheet <スプレッドシートID> を送信  
+
+＊このbotは実行環境でテストしていません。  
