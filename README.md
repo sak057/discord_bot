@@ -1,6 +1,6 @@
 # discord_bot  
 
-##事前に必要な準備（Google API）
+##事前に必要な準備（Google API)  
 1.Google Sheets APIを使えるようにする  
 2.Google Cloud Consoleでプロジェクトを作成  
 3.Google Sheets APIを有効化  
