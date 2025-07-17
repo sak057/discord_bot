@@ -1,4 +1,6 @@
 # discord_bot  
+このDiscordボットは、Googleフォームに欠席者が入力した学籍番号と名前を自動で収集・投稿するPython製のBotです。  
+
 
 ##事前に必要な準備（Google API)  
 1.Google Sheets APIを使えるようにする  
